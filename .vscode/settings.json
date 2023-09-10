@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "copilot": "javascript",
+    "*.js": "javascript",
+    "string": "cpp"
+  }
+}
