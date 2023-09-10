@@ -16,3 +16,5 @@ lib_deps =
 	knolleary/PubSubClient@^2.8
 
 The main functionality is to Read a DHT22 and write the data to InfluxDB. This is done via MQTT and nodeRed
+
+It is recommended spin up this Docker container. (https://github.com/Jamesd92/Node_MQTT_Influx_Docker)
